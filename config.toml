@@ -28,7 +28,7 @@ copyright = "&copy; Copyright Miguel Moll"
   header_title = "Miguel Moll"               # Your header title
   header_subtitle = "Random thoughts/findings I'd like to remember and share. Most likely gamedev and software related." 
   home_image = "/images/profile-pic.jpeg"          # Path to header image starting from the static directory
-  recent_posts = 5                           # Max amount of recent posts to show
+  recent_posts = 15                           # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]   # Main sections to include in recent posts
   #[params.style]                             # CSS style overrides
   #  backgroundColor = "#f8f9fa"

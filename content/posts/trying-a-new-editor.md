@@ -1,6 +1,6 @@
 ---
 title: "Trying a New Editor"
-date: 2022-12-05T12:17:50-05:00
+date: 2022-12-04T12:17:50-05:00
 draft: false
 type: post
 ---
